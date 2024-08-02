@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+![](/images/Knot-Soliton_2880x1620_Lede.jpg)
+
 <figure class="inline end" markdown>
-  ![image7](images/Knot-Soliton_2880x1620_Lede.jpg)
+  ![](/images/Knot-Soliton_2880x1620_Lede.jpg)
   <figcaption>David S. Hall, Amherst College, using code developed by Niles Johnson</figcaption>
 </figure>
 
