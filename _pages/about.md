@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![David S. Hall, Amherst College, using code developed by Niles Johnson](/images/Knot-Soliton_2880x1620_Lede.jpg){: .align-right width="300px"}
-
+![](/images/Knot-Soliton_2880x1620_Lede.jpg){: .align-right width="300px"}
+*David S. Hall, Amherst College, using code developed by Niles Johnson*
 
 A data-driven personal website
 ======
