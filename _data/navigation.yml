@@ -1,22 +1,24 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+  - title: "CV"
+   # url: /cv/
+    url: /files/CV_aug_2024.pdf
+    
+  - title: "Research"
+   # url: /publications/
+    url:  https://scholar.google.ca/citations?user=E7gvjQEAAAAJ&hl=en
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  #- title: "Portfolio"
+  #  url: /portfolio/
+
+  #- title: "Talks"
+  #  url: /talks/  
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
