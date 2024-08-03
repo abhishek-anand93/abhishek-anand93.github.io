@@ -10,7 +10,7 @@ redirect_from:
 
 <figure class="inline end" markdown>
   <img src="../images/knotSoliton.jpg" atl="Soliton" width="300" height="300">
-  <figcaption>David S. Hall, Amherst College, using code developed by Niles Johnson</figcaption>
+  <figcaption>Courtesy: David S. Hall, Amherst College, using code developed by Niles Johnson</figcaption>
 </figure>
 
 A data-driven personal website
