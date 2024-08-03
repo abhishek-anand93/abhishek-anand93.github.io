@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <figure style="display: inline-block; text-align: center; margin: 10px;">
-  <img src="../images/knotSoliton.jpg" atl="Soliton" style="width: 200px;">
+  <img src="../images/knotSoliton.jpg" atl="Soliton" style="width: 300px;">
   <figcaption>Courtesy: David S. Hall, Amherst College, using code developed by Niles Johnson</figcaption>
 </figure>
 
