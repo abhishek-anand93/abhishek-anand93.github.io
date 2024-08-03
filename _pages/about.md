@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<figure class="inline end" markdown>
-  <img src="../images/knotSoliton.jpg" atl="Soliton" width="300px" height="auto">
+<figure style="display: inline-block; text-align: center; margin: 10px;">
+  <img src="../images/knotSoliton.jpg" atl="Soliton" style="max-width: 30%;">
   <figcaption>Courtesy: David S. Hall, Amherst College, using code developed by Niles Johnson</figcaption>
 </figure>
 
