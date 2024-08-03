@@ -1,8 +1,8 @@
 ---
-title: "2023"
+title: "Courses"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2023_UG_JLGCH
+type: "Undergraduate courses"
+permalink: /teaching/teaching
 venue: "JLNGC Haripur"
 date: 2023-08-01
 location: "Haripur, Manali"
